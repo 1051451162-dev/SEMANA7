@@ -1,0 +1,3 @@
+1. La fragilidad y precisión del código no sabia que estaba haciendo mal y me dicuenta que estaba escribiendo mal la palabra descripción
+2. Ahora mismo el servidor esta programado de forma lineal y directa para un único objeto
+3.La importancia de entender los "Contratos" (APIs)

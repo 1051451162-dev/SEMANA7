@@ -1,0 +1,5 @@
+ {
+    "tipo": "evento",
+    "descripcion": "fiesta del pueblo para recoleccion de recursos"
+  }
+

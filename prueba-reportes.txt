@@ -1,0 +1,7 @@
+id	4
+tipo	"Infraestructura"
+descripcion	"Daño en alumbrado público"
+
+id	5
+tipo	"evento"
+descripcion	"fiesta del pueblo para recoleccion de recursos"
